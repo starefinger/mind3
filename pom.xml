@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.chinapnr.data</groupId>
+  <groupId>com.chinapnr.mind3</groupId>
   <artifactId>mind3</artifactId>
   <packaging>pom</packaging>
   <name>mind3</name>
@@ -13,7 +12,9 @@
   <description>a new batch proj</description>
   <version>${mind3.version}</version>
   <modules>
-    <module>mind3-core</module>
-    <module>mind3-databot</module>
+  	<module>mind3-core</module>
+  	<module>mind3-filebot</module>
+  	<module>mind3-databot</module>
+  	<module>mind3-service</module>
   </modules>
 </project>
