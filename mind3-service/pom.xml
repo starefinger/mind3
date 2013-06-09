@@ -7,11 +7,9 @@
     <groupId>com.chinapnr.mind3</groupId>
     <version>${mind3.version}</version>
   </parent>
-  <groupId>com.chinapnr.mind3</groupId>
   <artifactId>mind3-service</artifactId>
-  <version>${mind3.version}</version>
   <name>mind3-service</name>
-  <url>http://maven.apache.org</url>
+  <url>http://mind3.chinapnr.com</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
